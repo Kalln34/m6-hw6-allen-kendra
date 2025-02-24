@@ -26,6 +26,10 @@ header {
     font-family: monospace;
     display: flex;
     justify-content: left;
+    border-style: solid;
+    width: 265px;
+    height: 50px;
+    background: white;
 }
 
 
