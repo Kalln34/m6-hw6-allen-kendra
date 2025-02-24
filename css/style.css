@@ -20,8 +20,9 @@ header {
 .container h1 {
     font-size: 40px;
     color: black;
-    margin-top: -20px;
+    margin-top: 10px;
     margin-left: 10px;
+    margin-bottom: -40px;
     font-family: monospace;
     display: flex;
     justify-content: left;
@@ -69,7 +70,7 @@ nav a {
     font-size: 20px;
     margin-right: 15px;
     text-decoration: none;
-    border-right: 1px solid white;
+    border-right: 1px solid black;
     padding: 10px;
 }
 
